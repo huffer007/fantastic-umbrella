@@ -27,7 +27,7 @@
 # In this example, @huffer007 owns any files in the code
 # directory at the root of the repository and any of its
 # subdirectories.
-/code/ @huffer007 @the thedatamusician
+/code/ @huffer007 @thedatamusician
 
 # The `docs/*` pattern will match files like
 # `docs/getting-started.md` but not further nested files like
